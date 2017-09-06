@@ -55,7 +55,7 @@ class PostNew extends Component {
 					/>
 					<button type="submit" className="btn btn-primary">submit
 					</button>
-					<Link className="btn btn-danger" to="/">
+					<Link to="/" className="btn btn-danger">
 						Back
 					</Link>
 				</form>
