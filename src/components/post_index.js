@@ -18,7 +18,6 @@ class PostsIndex extends Component {
 					<Link to={`/posts/${post.id}`}>
 						{post.title}
 					</Link>
-					{post.content}
 				</li>
 			);
 		});
